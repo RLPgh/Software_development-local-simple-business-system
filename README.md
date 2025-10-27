@@ -170,4 +170,4 @@ pip install -r requirements.txt
 
 ---
 
-**¿Listo?** Ejecuta: `python main_gui.py` o haz doble clic en `iniciar_sistema.pyw`
+**¿Listo?** Ejecuta: `python main_gui.py` o haz doble clic en `iniciar_sistema.pyw` (o `iniciar_sistema.bat`)
